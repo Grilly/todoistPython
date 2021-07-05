@@ -5,7 +5,7 @@ This script can be used standalone or as script for BetterTouchTool (https://fol
 
 ## Configuration for BetterTouchTool
 
-![Screenshot of MacOS Touchbar](https://grilly.github.com/todoistPython/todoistInBetterTouchTool.png)
+![Screenshot of MacOS Touchbar](todoistInBetterTouchTool.png)
 
 1. Prerequesites
     1. Install python3
