@@ -9,7 +9,8 @@ This script can be used standalone or as script for BetterTouchTool (https://fol
 
 1. Prerequesites
     1. Install python3
-    1. In Todoist click your profile image and select integrations. At the bottom you will find the API-token.
+    2. Add Todist python api: ```pip install todoist-python```
+    3. In Todoist click your profile image and select integrations. At the bottom you will find the API-token.
 1. Add new trigger
 1. Select "Shell Script / Task Widget"
 1. Set the following configuration options
