@@ -7,7 +7,7 @@ This script can be used standalone or as script for BetterTouchTool (https://fol
 
 ![Screenshot of MacOS Touchbar](https://grilly.github.com/todoistPython/todoistInBetterTouchTool.png)
 
-1. Prerequesits
+1. Prerequesites
     1. Install python3
     1. In Todoist click your profile image and select integrations. At the bottom you will find the API-token.
 1. Add new trigger
